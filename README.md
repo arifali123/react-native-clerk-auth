@@ -1,25 +1,29 @@
-# React Native Authentication with Clerk and Expo Router
+# React Native Clerk Auth
 
-Check out the full [video tutorial](https://www.youtube.com/watch?v=zh6Sc1flK2g) and also [the written tutorial](https://galaxies.dev/react-native-authentication-clerk)!
+This is a personal fork of [react-native-clerk-auth](https://github.com/Galaxies-dev/react-native-clerk-auth) to experiment with additional features and improvements. The original tutorial can be found in this [YouTube video](https://www.youtube.com/watch?v=zh6Sc1flK2g).
 
-Use [Clerk](https://clerk.com/?utm_source=sponsorship&utm_medium=video&utm_campaign=simong&utm_content=08_15_2023) for epic user management 🔥
+## Updates & Differences from Original
 
-## 🚀 How to use
+- Updated to Expo SDK 52
+- All components and features working properly
+- Added React Native Reanimated integration
 
-```sh
-npx expo
-```
+## Additional Resources
 
-## 📝 Notes
+- [React Native Reanimated Documentation](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/)
+- Original tutorial by [Simon Grimm](https://www.youtube.com/watch?v=zh6Sc1flK2g)
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+## Personal Notes
 
+This fork is maintained as a personal experimental project to test additional features and integrations beyond the original tutorial's scope.
 
-## 🚀 More
+## Getting Started
 
-**Take a shortcut from web developer to mobile development fluency with guided learning**
+1. Clone the repository
+2. Install dependencies with `yarn install`
+3. Run the project with `npx expo start`
 
-Enjoyed this project? Learn to use React Native to build production-ready, native mobile apps for both iOS and Android based on your existing web development skills.
+## Original Project Credits
 
-<a href="https://galaxies.dev"><img src="banner.png" height="auto" width="100%"></a>
+- Original project by [Galaxies-dev](https://github.com/Galaxies-dev)
+- Tutorial by Simon Grimm
