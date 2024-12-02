@@ -1,6 +1,6 @@
 import { useSignIn } from "@clerk/clerk-expo";
 import { Link } from "expo-router";
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   View,
   StyleSheet,

@@ -1,5 +1,5 @@
 import { View, StyleSheet, TextInput, Button } from "react-native";
-import React, { useState } from "react";
+import { useState } from "react";
 import { Stack } from "expo-router";
 import { useSignIn } from "@clerk/clerk-expo";
 
